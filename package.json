@@ -13,7 +13,7 @@
   "author": "Julie Ralph <ju.ralph@gmail.com>",
   "dependencies": {
     "request": "~2.36.0",
-    "selenium-webdriver": "git+ssh://git@github.com:snayagar/selenium.git#sai-add-file-detector",
+    "selenium-webdriver": "git+ssh://git@github.com:snayagar/node-selenium-driver-filedetector.git",
     "minijasminenode": "1.1.1",
     "jasminewd": "1.1.0",
     "jasminewd2": "0.0.2",
